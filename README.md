@@ -1,3 +1,3 @@
 # MovingCub
 
-http://rimichia.github.io/MovingCub/index.html
+http://rimichia.github.io/MovingCub
